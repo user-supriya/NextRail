@@ -37,3 +37,9 @@ pocketbase/a.env
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Vite production build
+dist/
+
+# Temporary Code Runner files
+tempCodeRunnerFile.python
